@@ -1,3 +1,5 @@
+# This repository is not on current state. Please use <a href="https://github.com/Sparkier/exploRNN">this one</a> instead.
+
 ![exploRNN Teaser](explornn_teaser.png)
 # exploRNN: Understanding Recurrent Neural Networksthrough Visual Exploration
 
